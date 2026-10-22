@@ -1,0 +1,11 @@
+{
+"appName": "Friends",
+"appId": "com.vaista.friends",
+"versionName": "1.0.0",
+"versionCode": 1,
+"apkName": "Friends",
+"url": "https://vaista-app.github.io/FriendsChat/",
+"orientation": "portrait",
+"backgroundColor": "#07110D",
+"splashColor": "#07110D"
+}
